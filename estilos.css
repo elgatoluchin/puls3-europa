@@ -28,6 +28,14 @@ body
 	arriba derecha inferior izquierda
 	*/
 
+footer
+{
+	background: #434343;
+	color: #A7A7A7;
+	padding: 1em 0;
+	text-align: center;
+	width: 100%;
+}
 
 
 header
