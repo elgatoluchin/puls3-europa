@@ -27,6 +27,9 @@ body
 	estos funcionan de la misma forma
 	arriba derecha inferior izquierda
 	*/
+
+
+
 header
 {
 	background: #434343;
@@ -149,6 +152,13 @@ nav #publicar_nav a
 	text-decoration: none;
 }
 
+/*INICIO RESPONSIVE*/
+#bienvenida
+{
+	display: none;
+}
+/*FIN RESPONSIVE*/
+
 #contenido
 {
 	margin: 1em;
@@ -183,7 +193,7 @@ nav #publicar_nav a
 }
 
 #contenido .item .datos_item .guardar_item{
-	margin: 0.1em;
+	margin: 0 1em;
 	text-decoration: none;
 }
 
